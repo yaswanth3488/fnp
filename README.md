@@ -1,3 +1,5 @@
+![Screen Short](https://github.com/yaswanth3488/fnp/blob/main/Screenshot%202025-03-08%20115429.png)
+
 This project involved a comprehensive sales analysis for Ferns and Petals (FNP), a leading online gifting service specializing in various occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The aim was to uncover key insights from the sales data, identify trends, and provide actionable recommendations to enhance business performance.
 
 Key Insights: The analysis revealed that the months of February, August, and November showed the highest revenue, likely influenced by significant occasions like Valentine's Day, Holi, and Diwali. Among product categories, Colors, Sweets, and Soft Toys emerged as top revenue generators. Additionally, five key products were identified as the top revenue contributors: Deserunt Box, Dolores Gift, Harum Pack, Magnam Set, and Quia Gift.
