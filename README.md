@@ -3,7 +3,7 @@
 
 This project involved a comprehensive sales analysis for Ferns and Petals (FNP), a leading online gifting service specializing in various occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The aim was to uncover key insights from the sales data, identify trends, and provide actionable recommendations to enhance business performance.
 
-[DOCUMENT LINK]
+[DOCUMENT LINK](https://github.com/yaswanth3488/fnp/blob/main/PDF%20VIEW-FNP-Sales-Analysis.pdf)
 
 Key Insights: The analysis revealed that the months of February, August, and November showed the highest revenue, likely influenced by significant occasions like Valentine's Day, Holi, and Diwali. Among product categories, Colors, Sweets, and Soft Toys emerged as top revenue generators. Additionally, five key products were identified as the top revenue contributors: Deserunt Box, Dolores Gift, Harum Pack, Magnam Set, and Quia Gift.
 
@@ -18,4 +18,6 @@ The creation of targeted marketing campaigns around special occasions, utilizing
 General Business Improvement Tips: Continuous analysis of sales data will help identify trends and customer preferences, allowing for adaptive strategies based on insights. Investing in branding will reinforce FNP’s identity as a go-to gift provider for special occasions. Collaborations with social media influencers can further expand reach and visibility. Enhancing delivery options by working with local services will ensure timely deliveries during peak periods. Lastly, monitoring competitor strategies is crucial for remaining competitive, allowing for necessary adjustments in marketing tactics.
 
 Conclusion: The FNP Sales Analysis project provided valuable insights into customer behavior, sales trends, and operational efficiencies. The outlined recommendations aim to enhance FNP's market presence, improve customer satisfaction, and ultimately drive revenue growth. This analysis serves as a foundation for ongoing strategic initiatives and data-driven decision-making in the gifting industry.
+
+#[CONNECT WITH ME ON LIKEDIN](https://www.linkedin.com/in/yaswanth3488/)
 
